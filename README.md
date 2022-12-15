@@ -1,8 +1,6 @@
-# @fortawesome/fontawesome-free - The Official Font Awesome 5 NPM package
+# @fortawesome/fontawesome-free-5-npm - Inofficial Font Awesome 5 NPM package
 
-> "I came here to chew bubblegum and install Font Awesome 5 - and I'm all out of bubblegum"
-
-[![npm](https://img.shields.io/npm/v/@fortawesome/fontawesome-free.svg?style=flat-square)](https://www.npmjs.com/package/@fortawesome/fontawesome-free)
+This package fixes the sass deprecation warnings triggered by the official fa package.
 
 ## Installation
 

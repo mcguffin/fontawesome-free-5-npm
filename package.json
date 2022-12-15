@@ -41,7 +41,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FortAwesome/Font-Awesome"
+    "url": "https://github.com/mcguffin/fontawesome-free-5-npm"
   },
   "engines": {
     "node": ">=6"
